@@ -1,0 +1,19 @@
+# Arquivo gerado pelo Gemini Code Assist
+
+# Dependências
+# Ignora o diretório onde os pacotes do npm são instalados.
+/node_modules
+
+# Logs
+# Ignora arquivos de log que podem ser gerados durante a execução ou debug.
+logs
+*.log
+npm-debug.log*
+
+# Arquivos de ambiente
+# Nunca versione arquivos .env, pois eles podem conter chaves de API e segredos.
+.env
+
+# Arquivos de sistema operacional
+.DS_Store
+Thumbs.db
